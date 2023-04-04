@@ -39,7 +39,7 @@ public class AirportController {
 
         //Find the duration by finding the shortest flight that connects these 2 cities directly
         //If there is no direct flight between 2 cities return -1.
-
+        // checking
        return 0;
     }
 
